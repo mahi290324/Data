@@ -1,0 +1,52 @@
+ [
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Calendar.csv",
+			"directory": "Calendar",
+			"filename": "calendar.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/blob/main/AdventureWorks_Customers.csv",
+			"directory": "Customer",
+			"filename": "customer.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Product_Categories.csv",
+			"directory": "Product_Caterories",
+			"filename": "product_categories.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+			"directory": "Product_Subcategories",
+			"filename": "product_subcategories.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Products.csv",
+			"directory": "Products",
+			"filename": "products.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Returns.csv",
+			"directory": "Returns",
+			"filename": "returns.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Sales_2015.csv",
+			"directory": "Sales_2015",
+			"filename": "sales_2015.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Sales_2016.csv",
+			"directory": "Sales_2016",
+			"filename": "sales_2016.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Sales_2017.csv",
+			"directory": "Sales_2017",
+			"filename": "sales_2017.csv"
+		},
+		{
+			"pr_rel_url": "mahi290324/Data/refs/heads/main/AdventureWorks_Territories.csv",
+			"directory": "Territories",
+			"filename": "territories.csv"
+		}
+	]
